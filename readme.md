@@ -1,6 +1,6 @@
 MTA-STS
 =======
-By **Vlad Marian** *<vmarian@mimecast.com>*
+By **Vlad Marian** *<transilvlad@gmail.com>*
 
 
 Overview
@@ -23,7 +23,7 @@ Best practices
 The following validations are off by default:
 - `Require HTTPS response Content-Type as text/plain.`
 
-In practice we see policis that will not have it or have a different value.
+In practice, we see policies that will not have it or have a different value.
 
 - `Require policy line endings as CRLF.`
 
