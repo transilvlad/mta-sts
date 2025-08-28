@@ -18,7 +18,7 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub Mimecast Apache Maven Packages</name>
+            <name>GitHub Apache Maven Packages</name>
             <url>https://maven.pkg.github.com/transilvlad/mta-sts</url>
         </repository>
     </distributionManagement>
