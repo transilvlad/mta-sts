@@ -3,6 +3,14 @@ MTA-STS
 By **Vlad Marian** *<transilvlad@gmail.com>*
 
 
+Deprecated Notice
+-----------------
+This project is no longer actively maintained beyond dependency updates.
+It has been integrated natively into Robin MTA.
+
+For more details, please visit: https://github.com/transilvlad/robin
+
+
 Overview
 --------
 <img align="right" width="200" height="200" src="doc/logo.png">
