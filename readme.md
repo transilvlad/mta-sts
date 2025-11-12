@@ -1,15 +1,16 @@
-MTA-STS
-=======
+MTA-STS Java Library
+====================
 By **Vlad Marian** *<transilvlad@gmail.com>*
 
 
 Deprecated Notice
 -----------------
 This project is no longer actively maintained beyond dependency updates.
-It has been integrated natively into Robin MTA.
+It has been integrated natively into Robin MTA Server and Tester.
 
 For more details, please visit: https://github.com/transilvlad/robin
 
+![MTA-STS Java Library](doc/splash.jpg)
 
 Overview
 --------
